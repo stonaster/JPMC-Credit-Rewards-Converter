@@ -20,4 +20,8 @@ public class RewardValue {
     public int getMilesValue() {
         return milesValue;
     }
+
+    public static double getConversionRate() {
+        return conversionRate;
+    }
 }
